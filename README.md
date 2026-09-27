@@ -24,28 +24,28 @@ The course establishes the formal bridge connecting biological electrical/chemic
 ### Course Roadmap
 
 * **Part 1: Foundations**
- * **Introduction & Epistemological Bridge**
-  * *Scope and core concepts*
- * **The Biological Neuron**
-  * *Conceptual challenge: What is a neuron?*
- * **From Biology to Mathematics**
-  * *Abstraction and Information encoding*
- * **Logical Gates & McCulloch-Pitts Neurons**
-  * *Live coding: simulation on NumPy*
+  * **Introduction & Epistemological Bridge**
+    * *Scope and core concepts*
+  * **The Biological Neuron**
+    * *Conceptual challenge: What is a neuron?*
+  * **From Biology to Mathematics**
+    * *Abstraction and Information encoding*
+  * **Logical Gates & McCulloch-Pitts Neurons**
+    * *Live coding: simulation on NumPy*
 
 * **Part 2: Architectures & Learning**
- * **The First Learning Neuron**
-  * *From static M&P model to plasticity*
- * **Limits & Evolution**
-  * *The XOR Crisis*
- * **Multi Layer Perceptrons**
-  * *Forward propagation and communication*
- * **Synthesis & Closure**
-  * *Closing the Epistemological Bridge*
+  * **The First Learning Neuron**
+    * *From static M&P model to plasticity*
+  * **Limits & Evolution**
+    * *The XOR Crisis*
+  * **Multi Layer Perceptrons**
+    * *Forward propagation and communication*
+  * **Synthesis & Closure**
+    * *Closing the Epistemological Bridge*
 
-  ---
+---
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 * **Language & Runtime:** Python `>=3.10`
 * **Python Environment & Package Manager:** [`uv`](https://github.com/astral-sh/uv)
