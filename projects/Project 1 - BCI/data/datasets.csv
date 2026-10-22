@@ -1,0 +1,2 @@
+dataset,n_trials,n_neurons,duration_ms,bin_ms,stimulus_onset_ms,classes,description
+bci_visual_2stim,200,40,1000,1,200,stimulus_A|stimulus_B,Project 1: two visual stimuli
