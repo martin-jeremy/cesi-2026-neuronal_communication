@@ -11,19 +11,6 @@ Two groups, two case studies, one tool: the **epistemological bridge**. Both pro
 | Core task | build, train, evaluate, interrogate | audit, repair, explain |
 | Bonus | what would need to change to account for what was discarded? | does it matter where you put activations across layers? |
 
-## Files
-
-| File | What it is |
-|:---|:---|
-| `data/*.csv` | the recordings, as the lab shares them: one row per spike, one row per trial. Open them in a spreadsheet or in VS Code |
-| `data/README.md` | the data dictionary: what every file and every column means |
-| `spikes.py` | helpers: `load_dataset` (CSV to arrays), `preview` (first lines of the files), `plot_raster`, `plot_psth` |
-| `REPORT_TEMPLATE.md` | how to write your report: a 4-page mini-article |
-| `decoder.py` | Project 2 only: the code of the decoder inherited from the previous intern |
-| `models/pretrained_decoder.safetensors` | Project 2 only: its trained parameters. **safetensors** is the standard format to share model weights: the tensors, plus a small "model card" of metadata. `decoder.print_model_card()` shows what the file declares about itself |
-
-Open the notebooks from this folder (`projects/v2/`), with the environment created by `uv sync` at the repository root.
-
 ## What you need, and when you get it
 
 | To succeed in the projects, you need to... | Chapter | When |
