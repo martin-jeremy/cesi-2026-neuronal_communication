@@ -13,8 +13,7 @@ presents this article.
 
 ## Structure (IMRaD)
 
-**Title**: a claim, not a topic. *"Spike timing carries what spike counts discard"*
-says more than *"Project 1 report"*.
+**Title**: a claim, not a topic. I don't want to see any *"Project report"*.
 
 **Authors**: the members of the group.
 
