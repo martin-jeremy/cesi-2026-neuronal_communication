@@ -1,0 +1,3 @@
+dataset,n_trials,n_neurons,duration_ms,bin_ms,stimulus_onset_ms,classes,description
+visual_3stim,300,40,1000,1,200,grating|face|house,Project 2: the visual recordings the previous intern trained on
+motor_effort,300,40,2000,1,,work|release|rest,Project 2: motor effort test (work / release / rest)
