@@ -1,6 +1,6 @@
 """Small helpers for the project: loading, previewing and plotting spike trains.
 
-The recordings come as CSV files in ``data/``, next to this file (open them in any spreadsheet
+The recordings come as CSV files in ``data/``, in the project folder (open them in any spreadsheet
 or text editor, see ``data/README.md``):
 
     datasets.csv            one row per dataset: number of trials and neurons, duration, resolution

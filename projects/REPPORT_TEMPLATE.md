@@ -1,7 +1,7 @@
 # Project report: a mini-article
 
 Your report is a short scientific article, the kind of paper a lab writes to share one result.
-It is the written part of your case study; the 30-minute presentation at the end of November
+It is the written part of your case study; the 30-minute presentation on Monday 23 November
 presents this article.
 
 ## Format
@@ -9,12 +9,12 @@ presents this article.
 - **4 pages maximum**, references and annex excluded, as a **PDF**, in English.
 - **Annex**: your project notebook, cleaned, that runs from top to bottom without error
   (*Kernel > Restart & Run All*). Anyone must be able to reproduce every number of the article.
-- **Due**: The mini-articles and notebooks must be submitted to me by November 20th.
+- **Due**: Friday 20 November, with your notebook. The presentation follows on Monday 23 November.
 
 ## Structure (IMRaD)
 
-**Title**: a claim, not a topic. *"Spike timing, not spike count, separates release from rest"*
-says more than *"Project 2 report"*.
+**Title**: a claim, not a topic. *"Spike timing carries what spike counts discard"*
+says more than *"Project 1 report"*.
 
 **Authors**: the members of the group.
 
@@ -22,7 +22,7 @@ says more than *"Project 2 report"*.
 and the main limit.
 
 **1. Introduction** (about half a page)
-- The context: a brain computer interface (Project 1), a motor prosthesis (Project 2).
+- The context: a brain computer interface.
 - The question asked by the PI, in your own words.
 - Why the answer matters, for the device and for our understanding of neurons.
 
@@ -31,13 +31,11 @@ and the main limit.
 - Your features: what you count, over which time windows; how you standardize, and on which trials.
 - Your model, with the notation of the course: $z = w \cdot x + b$, $y = \varphi(z)$, the learning rule, $\eta$, the number of epochs.
 - Your evaluation protocol: the train / test split (and its seed), the metrics (accuracy, confusion matrix).
-- Project 2: how you audited the inherited decoder.
 
 **3. Results** (about one page): facts only, interpretation comes in the Discussion.
 - At least **two figures**, numbered, with a caption, axis labels and units, each one cited in the text.
 - Every score is measured on **held-out trials**. Give the confusion matrix, not only the accuracy.
 - Compare your options (for example spike counts vs time-binned features) on the same test trials.
-- Project 2: one table with every flaw of the inherited decoder and the evidence for it.
 
 **4. Discussion** (about one page)
 - Your answer to the PI's question, and the results that support it.
