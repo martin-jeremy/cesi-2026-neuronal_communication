@@ -29,7 +29,7 @@ Open the notebook from this folder (`projects/v2/Project 2 - Motor Effort Test/`
 | To succeed in the projects, you need to... | Chapter | When |
 |:---|:---:|:---:|
 | Read spike trains: rasters, PSTH, firing rates | 2 and 3 | Mon PM, Tue AM |
-| Turn a trial into a vector of numbers (features) | 3 | Tue AM |
+| Turn a trial into a vector of numbers (features) | 3 | Mon PM, Tue AM |
 | Code a neuron, then a perceptron, in NumPy | 3 to 5 | Tue, Wed PM |
 | Evaluate a decoder: train / test split, accuracy, confusion matrix, standardization | 5 | Wed PM |
 | Handle more than two classes; layers and activations | 7 | Thu |
@@ -37,9 +37,9 @@ Open the notebook from this folder (`projects/v2/Project 2 - Motor Effort Test/`
 
 - **Wednesday morning (2h)**: project time, in autonomy, with me around for your questions. Explore the data, build your first features. Project 2: reproduce the failure and start the audit.
 - **Thursday afternoon (2h)**: project time again: models, results, your bridge. Ask your questions while we are together.
-- **End of November**: the mini-articles and the lab meeting presentations.
+- **Friday 20 November**: the mini-articles and their notebooks are due. **Monday 23 November**: the lab meeting presentations.
 
-## Deliverables, at the end of November
+## Deliverables: 20 and 23 November
 
 1. A **mini-article**: 4 pages maximum, IMRaD, following `REPORT_TEMPLATE.md`, with your notebook, cleaned and runnable, in annex.
 2. Its **30-minute presentation** at the lab meeting.
