@@ -5,6 +5,10 @@ __pycache__/
 
 # Solutions
 *-instructor.ipynb
+slides.md
+slides-to-pdf.md
+slides/assets
+notebooks-instructor/
 
 # C extensions
 *.so
