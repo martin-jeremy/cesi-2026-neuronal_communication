@@ -4,11 +4,13 @@ __pycache__/
 *$py.class
 
 # Solutions
-*-instructor.ipynb
+*-instructor.*
 slides.md
 slides-to-pdf.md
 slides/assets
 notebooks-instructor/
+*.mjs
+*.css
 
 # C extensions
 *.so
