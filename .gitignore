@@ -11,6 +11,7 @@ slides/assets
 notebooks-instructor/
 *.mjs
 *.css
+style/
 
 # C extensions
 *.so
