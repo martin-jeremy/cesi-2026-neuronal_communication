@@ -13,17 +13,6 @@ How does a living neuron, made of ions, membranes and synapses, become `z = w ·
 
 It is **not** a neuroscience course (no memorizing brain regions) and **not** a black-box deep learning course (no `import torch` to train a huge model). We build the blocks ourselves, to understand why weights, thresholds and activations are designed the way they are.
 
-## The week at a glance
-
-25 hours together. Every chapter mixes lecture, **paper & pencil** exercises and **live coding** in Jupyter.
-
-| | Morning | Afternoon |
-|:---|:---|:---|
-| **Monday** | Ice breaker, the module, the bridge, the projects | **Ch. 2** The biological neuron, start of **Ch. 3** |
-| **Tuesday** | **Ch. 3** From biology to mathematics | **Ch. 4** Logic gates workshop, start of **Ch. 5** |
-| **Wednesday** | **Projects**: autonomous work, questions | **Ch. 5** The first learning neuron, start of **Ch. 6** |
-| **Thursday** | **Ch. 6** The XOR crisis, start of **Ch. 7** | **Ch. 7** and **Ch. 8** closure, then **Projects**: autonomous work |
-
 ### The chapters
 
 **Part 1: Foundations**
